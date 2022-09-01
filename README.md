@@ -5,7 +5,7 @@
 <h3 align="center">Full-stack web developer with knowledge and experience in writing web applications, using the latest web technologies, including ES6, Vue.js, Vuex, React, Redux and Node.js.</h3>
 
 <div align="center">
-## 🙋‍♂️ About Me
+## <h1>🙋‍♂️ About Me</h1>
 - 🌱 I continue to learn and develop my skills in **React.js, Vue.js and node.js**
 
 - 👨‍🎓 I have B.Sc in **Electrical and Electronic engineering**
