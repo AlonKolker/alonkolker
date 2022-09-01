@@ -4,6 +4,7 @@
 <h1 align="center">Shalom👋, I'm Alon Kolker</h1>
 <h3 align="center">Full-stack web developer with knowledge and experience in writing web applications, using the latest web technologies, including ES6, Vue.js, Vuex, React, Redux and Node.js.</h3>
 
+
 ## 🙋‍♂️ About Me
 - 🌱 I continue to learn and develop my skills in **React.js, Vue.js and node.js**
 
