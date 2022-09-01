@@ -10,6 +10,8 @@
 
 - 👨‍🎓 I have B.Sc in **Electrical and Electronic engineering**
 
+- 👨‍💻 Most of my projects are available at  <a href="https://www.linkedin.com/in/alon-kolker/">My Portfolio</a>
+
 - 📫 You can reach me in **alonkolk@gmail.com**
 
 <div style="display:flex;">
