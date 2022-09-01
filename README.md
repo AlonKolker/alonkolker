@@ -6,13 +6,14 @@
 </br>
 <div align="center">
  <h2>🙋‍♂️ About Me</h2>
+  
  🌱 I continue to learn and develop my skills in **React.js, Vue.js and node.js**
 
- 👨‍🎓 I have B.Sc in **Electrical and Electronic engineering**
+ 👨‍🎓  I have B.Sc in **Electrical and Electronic engineering**
 
- 👨‍💻 Most of my projects are available at  **<a href="https://github.com/AlonKolker?tab=repositories">My Portfolio</a>**
+ 👨‍💻  Most of my projects are available at  **<a href="https://github.com/AlonKolker?tab=repositories">My Portfolio</a>**
 
- 📫 You can reach me in **alonkolk@gmail.com**
+ 📫  You can reach me in **alonkolk@gmail.com**
 </div>
 </br>
 
