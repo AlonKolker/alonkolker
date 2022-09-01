@@ -7,7 +7,7 @@
 - 🌱 I continue to learn and develop my skills in **React.js, Vue.js and node.js**
 - 👨‍🎓 I have B.Sc in **Electrical and Electronic engineering**
 - 📫 You can reach me in **alonkolk@gmail.com**
-<div style="display=flex">
+<div style="display:flex">
 <h3 align="left">Connect with me on Liknedin:</h3>
 
 <a href="https://www.linkedin.com/in/alon-kolker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alonkolker" height="30" width="40" /></a>
