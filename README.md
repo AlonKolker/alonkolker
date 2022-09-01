@@ -1,12 +1,16 @@
 <p align="center">
-  <img width="400" style="border-radius:5px" src="https://miro.medium.com/max/1024/0*Za8H9d3CCWPRSJkl.gif">
+  <img width="300" style="border-radius:5px" src="https://miro.medium.com/max/1024/0*Za8H9d3CCWPRSJkl.gif">
 </p>
 <h1 align="center">Shalom👋, I'm Alon Kolker</h1>
 <h3 align="center">Full-stack web developer with knowledge and experience in writing web applications, using the latest web technologies, including ES6, Vue.js, Vuex, React, Redux and Node.js.</h3>
 
+## 🙋‍♂️ About Me
 - 🌱 I continue to learn and develop my skills in **React.js, Vue.js and node.js**
+
 - 👨‍🎓 I have B.Sc in **Electrical and Electronic engineering**
+
 - 📫 You can reach me in **alonkolk@gmail.com**
+
 <div style="display:flex;">
 <h3 align="left">Connect with me on Liknedin:</h3>
   <p >
