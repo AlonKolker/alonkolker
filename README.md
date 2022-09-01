@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Shalom👋, I'm Alon Kolker</h1>
 <h3 align="center">Full-stack web developer with knowledge and experience in writing web applications, using the latest web technologies, including ES6, Vue.js, Vuex, React, Redux and Node.js.</h3>
-
+</br>
 <div align="center">
  <h2>🙋‍♂️ About Me</h2>
  🌱 I continue to learn and develop my skills in **React.js, Vue.js and node.js**
@@ -14,7 +14,6 @@
 
  📫 You can reach me in **alonkolk@gmail.com**
 </div>
-
 </br>
 
 <div style="display:flex;"  align="center">
