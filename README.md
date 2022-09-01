@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" style="borderRadius:5px" src="https://miro.medium.com/max/1024/0*Za8H9d3CCWPRSJkl.gif">
+  <img width="400" style="border-radius:5px" src="https://miro.medium.com/max/1024/0*Za8H9d3CCWPRSJkl.gif">
 </p>
 <h1 align="center">Shalom👋, I'm Alon Kolker</h1>
 <h3 align="center">Full-stack web developer with knowledge and experience in writing web applications, using the latest web technologies, including ES6, Vue.js, Vuex, React, Redux and Node.js.</h3>
