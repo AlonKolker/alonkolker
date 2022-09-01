@@ -23,6 +23,8 @@
 <a href="https://www.linkedin.com/in/alon-kolker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alonkolker" height="30" width="40" /></a>
     </p>
 
+  <a href="https://www.linkedin.com/in/alon-kolker/" target="blank"><img align="center" src= https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="alonkolker" height="30" width="40" /></a>
+ 
 </div>
 
 </br>
